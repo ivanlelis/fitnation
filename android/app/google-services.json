@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "660860690145",
+    "firebase_url": "https://fitnationsgym-2bbd9-default-rtdb.firebaseio.com",
+    "project_id": "fitnationsgym-2bbd9",
+    "storage_bucket": "fitnationsgym-2bbd9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660860690145:android:a469db2d3b2a879bcaa1a0",
+        "android_client_info": {
+          "package_name": "com.example.fitgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAo4dP3QYSaNZ99OXv1ZDTdPksh3DHqM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660860690145:android:157eb7882de796ffcaa1a0",
+        "android_client_info": {
+          "package_name": "com.example.fitnations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAo4dP3QYSaNZ99OXv1ZDTdPksh3DHqM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660860690145:android:00df54cd0136d084caa1a0",
+        "android_client_info": {
+          "package_name": "com.example.fitnationsgym"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAo4dP3QYSaNZ99OXv1ZDTdPksh3DHqM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
